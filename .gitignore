@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/release
 
 pubspec.lock
+
+# constants and private keys
+lib/app/app_constants.dart
