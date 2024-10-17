@@ -15,3 +15,7 @@ A Weather App that is usgin https://openweathermap.org API
 ## Usefull commands
 
 `$ flutter clean`
+
+## Resources
+
+![ezgif com-speed](https://github.com/user-attachments/assets/00a9c259-389d-4c7e-909d-ac48f2e9bf13)
