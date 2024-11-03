@@ -1,6 +1,4 @@
-# Outcode
-
-A Flutter challenge for Outcode.
+# Flutter Weather App
 
 A Weather App that is usgin https://openweathermap.org API
 
